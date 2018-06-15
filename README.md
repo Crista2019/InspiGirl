@@ -1,3 +1,3 @@
 # InspiGirls
-1 | 2 | 3
-![logo](images/inspiGirls.PNG) | Web Resources for the InspiGIRLS Nonprofit, inspiring women to become leaders through initiatives, blogs, etc. | 3
+Web Resources for the InspiGIRLS Nonprofit, inspiring women to become leaders through initiatives, blogs, etc. </ br>
+![logo](images/inspiGirls.PNG)
