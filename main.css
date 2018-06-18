@@ -183,7 +183,7 @@ a:hover {
 }
 
 #blog .post {
-  width: 52%;
+  width: 65%;
   margin-top: 7.5%;
   margin-bottom: 7.5%;
   display: flex;
@@ -197,6 +197,10 @@ a:hover {
   color: #444444;
   background: #FAFAFA;
   border: 1px solid #D3D3D3;
+}
+
+#blog p, footer p {
+  font-size: 15px;
 }
 
 .post h2 {
