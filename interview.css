@@ -1,0 +1,9 @@
+.title {
+  color: grey;
+  font-weight: bold;
+}
+
+ul {
+  float: left;
+  text-align: left;
+}
